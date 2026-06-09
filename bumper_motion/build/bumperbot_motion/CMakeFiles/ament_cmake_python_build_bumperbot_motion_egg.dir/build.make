@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/demi/bumper_motion/src/bumperbot_motion
+CMAKE_SOURCE_DIR = /home/demi/ros2jazzy_tsp_implementation/bumper_motion/src/bumperbot_motion
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/demi/bumper_motion/build/bumperbot_motion
+CMAKE_BINARY_DIR = /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_motion
 
 # Utility rule file for ament_cmake_python_build_bumperbot_motion_egg.
 
@@ -67,7 +67,7 @@ include CMakeFiles/ament_cmake_python_build_bumperbot_motion_egg.dir/compiler_de
 include CMakeFiles/ament_cmake_python_build_bumperbot_motion_egg.dir/progress.make
 
 CMakeFiles/ament_cmake_python_build_bumperbot_motion_egg:
-	cd /home/demi/bumper_motion/build/bumperbot_motion/ament_cmake_python/bumperbot_motion && /usr/bin/python3 setup.py egg_info
+	cd /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_motion/ament_cmake_python/bumperbot_motion && /usr/bin/python3 setup.py egg_info
 
 ament_cmake_python_build_bumperbot_motion_egg: CMakeFiles/ament_cmake_python_build_bumperbot_motion_egg
 ament_cmake_python_build_bumperbot_motion_egg: CMakeFiles/ament_cmake_python_build_bumperbot_motion_egg.dir/build.make
@@ -82,6 +82,6 @@ CMakeFiles/ament_cmake_python_build_bumperbot_motion_egg.dir/clean:
 .PHONY : CMakeFiles/ament_cmake_python_build_bumperbot_motion_egg.dir/clean
 
 CMakeFiles/ament_cmake_python_build_bumperbot_motion_egg.dir/depend:
-	cd /home/demi/bumper_motion/build/bumperbot_motion && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/demi/bumper_motion/src/bumperbot_motion /home/demi/bumper_motion/src/bumperbot_motion /home/demi/bumper_motion/build/bumperbot_motion /home/demi/bumper_motion/build/bumperbot_motion /home/demi/bumper_motion/build/bumperbot_motion/CMakeFiles/ament_cmake_python_build_bumperbot_motion_egg.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_motion && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/demi/ros2jazzy_tsp_implementation/bumper_motion/src/bumperbot_motion /home/demi/ros2jazzy_tsp_implementation/bumper_motion/src/bumperbot_motion /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_motion /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_motion /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_motion/CMakeFiles/ament_cmake_python_build_bumperbot_motion_egg.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/ament_cmake_python_build_bumperbot_motion_egg.dir/depend
 

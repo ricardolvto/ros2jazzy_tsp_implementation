@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/demi/bumper_motion/src/bumperbot_planning
+CMAKE_SOURCE_DIR = /home/demi/ros2jazzy_tsp_implementation/bumper_motion/src/bumperbot_planning
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/demi/bumper_motion/build/bumperbot_planning
+CMAKE_BINARY_DIR = /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_planning
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -142,9 +142,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/demi/bumper_motion/build/bumperbot_planning/CMakeFiles /home/demi/bumper_motion/build/bumperbot_planning//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_planning/CMakeFiles /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_planning//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/demi/bumper_motion/build/bumperbot_planning/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_planning/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

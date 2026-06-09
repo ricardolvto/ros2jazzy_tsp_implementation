@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/demi/bumper_motion/src/bumperbot_bringup
+CMAKE_SOURCE_DIR = /home/demi/ros2jazzy_tsp_implementation/bumper_motion/src/bumperbot_bringup
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/demi/bumper_motion/build/bumperbot_bringup
+CMAKE_BINARY_DIR = /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_bringup
 
 # Utility rule file for uninstall.
 
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/demi/bumper_motion/build/bumperbot_bringup && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/demi/bumper_motion/src/bumperbot_bringup /home/demi/bumper_motion/src/bumperbot_bringup /home/demi/bumper_motion/build/bumperbot_bringup /home/demi/bumper_motion/build/bumperbot_bringup /home/demi/bumper_motion/build/bumperbot_bringup/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_bringup && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/demi/ros2jazzy_tsp_implementation/bumper_motion/src/bumperbot_bringup /home/demi/ros2jazzy_tsp_implementation/bumper_motion/src/bumperbot_bringup /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_bringup /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_bringup /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_bringup/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/uninstall.dir/depend
 

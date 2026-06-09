@@ -1,8 +1,8 @@
-# Install script for directory: /home/demi/bumper_motion/build/bumperbot_msgs/bumperbot_msgs__py
+# Install script for directory: /home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_msgs/bumperbot_msgs__py
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/demi/bumper_motion/install/bumperbot_msgs")
+  set(CMAKE_INSTALL_PREFIX "/home/demi/ros2jazzy_tsp_implementation/bumper_motion/install/bumperbot_msgs")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

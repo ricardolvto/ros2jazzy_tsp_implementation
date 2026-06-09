@@ -1,0 +1,19 @@
+ros2 topic pub --once /unordered_waypoints nav_msgs/msg/Path "$(python3 -c '
+import json
+import random
+
+poses = []
+for _ in range(20):
+    # Generates random floats between 0.0 and 6.0 for X and Y
+    x = random.uniform(0.0, 6.0)
+    y = random.uniform(0.0, 6.0)
+    
+    poses.append({
+        "pose": {
+            "position": {"x": round(x, 2), "y": round(y, 2), "z": 0.0},
+            "orientation": {"x": 0.0, "y": 0.0, "z": 0.0, "w": 1.0}
+        }
+    })
+
+print(json.dumps({"poses": poses}))
+')" 

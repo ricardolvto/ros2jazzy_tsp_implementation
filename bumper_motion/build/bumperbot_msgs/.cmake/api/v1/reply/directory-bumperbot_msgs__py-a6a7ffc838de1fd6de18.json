@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "bumperbot_msgs__py",
+		"source" : "/home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_msgs/bumperbot_msgs__py"
+	}
+}

@@ -1,11 +1,11 @@
 file(REMOVE_RECURSE
-  "/home/demi/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/Cargo.toml"
-  "/home/demi/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/build.rs"
-  "/home/demi/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/src/action.rs"
-  "/home/demi/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/src/action/rmw.rs"
-  "/home/demi/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/src/lib.rs"
-  "/home/demi/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/src/srv.rs"
-  "/home/demi/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/src/srv/rmw.rs"
+  "/home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/Cargo.toml"
+  "/home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/build.rs"
+  "/home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/src/action.rs"
+  "/home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/src/action/rmw.rs"
+  "/home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/src/lib.rs"
+  "/home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/src/srv.rs"
+  "/home/demi/ros2jazzy_tsp_implementation/bumper_motion/build/bumperbot_msgs/rosidl_generator_rs/bumperbot_msgs/rust/src/srv/rmw.rs"
   "CMakeFiles/bumperbot_msgs__rs"
 )
 

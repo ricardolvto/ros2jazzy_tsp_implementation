@@ -1,8 +1,8 @@
 {
   "package_name": "bumperbot_msgs",
   "non_idl_tuples": [
-    "/home/demi/bumper_motion/src/bumperbot_msgs:action/Fibonacci.action",
-    "/home/demi/bumper_motion/src/bumperbot_msgs:srv/AddTwoInts.srv",
-    "/home/demi/bumper_motion/src/bumperbot_msgs:srv/GetTransform.srv"
+    "/home/demi/ros2jazzy_tsp_implementation/bumper_motion/src/bumperbot_msgs:action/Fibonacci.action",
+    "/home/demi/ros2jazzy_tsp_implementation/bumper_motion/src/bumperbot_msgs:srv/AddTwoInts.srv",
+    "/home/demi/ros2jazzy_tsp_implementation/bumper_motion/src/bumperbot_msgs:srv/GetTransform.srv"
   ]
 }
